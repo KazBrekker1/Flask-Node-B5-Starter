@@ -1,0 +1,10 @@
+.grid {
+	height: 100vh;
+	display: grid;
+	.navbar {
+		height: 4em;
+		text-align: center;
+	}
+}
+
+@import "../js/node_modules/bootstrap/scss/bootstrap.scss";
